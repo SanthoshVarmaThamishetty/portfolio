@@ -100,4 +100,8 @@
   .text-container {
     text-align: justify;
   }
+   #taskbar {
+    height: 30px; /* Adjust height as needed */
+    font-size: 0.7rem; /* Adjust font size as needed */
+  }
 }
